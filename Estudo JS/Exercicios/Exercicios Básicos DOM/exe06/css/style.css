@@ -1,0 +1,13 @@
+body{
+    font: 12pt Arial;
+}
+
+.botao{
+    padding:30px;
+    font: 12pt Arial;
+}
+
+.resultado{
+    padding:10px;
+    display:block;
+}

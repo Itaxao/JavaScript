@@ -1,0 +1,12 @@
+body{
+    font:12pt Arial;
+}
+
+h1{
+    font-weight:bold;
+}
+
+.botao{
+    font:12pt Arial;
+    padding:30px;
+}
