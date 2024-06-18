@@ -1,0 +1,41 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+#corpo {
+    width:100vw;
+    height:100vh;
+    background-color:#71bfc5;
+    font:normal 15pt arial;
+}
+
+#cabecalho{
+    color:#FFFFFF;
+    text-align: center;
+}
+
+#elementos{
+    background-color:#fae9c9f6;
+    border-radius:10px;
+    padding:15px;
+    width:500px;
+    margin:auto;
+    box-shadow: 5px 5px 10px #00000086;
+    margin-top:10px;
+    margin-bottom:20px;
+}
+
+#texto{
+    text-align:center;
+}
+
+#imagem{
+    text-align: center;
+}
+
+#rodape{
+    color:#FFFFFF;
+    text-align:center;
+    font-style: italic;
+}

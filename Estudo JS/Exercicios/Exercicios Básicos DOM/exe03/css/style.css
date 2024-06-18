@@ -1,0 +1,18 @@
+body{
+    font:13pt Arial;
+}
+
+h1{
+    font:24pt Arial;
+    font-weight:bold;
+}
+
+.botao{
+    font-size:12pt;
+    padding:30px;
+    margin-bottom:16px;
+}
+
+.resultado{
+    font-size:12pt;
+}

@@ -1,0 +1,76 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+#corpo {
+    width:100vw;
+    height:100vh;
+    background-color:#71bfc5;
+    font:normal 15pt arial;
+}
+
+#cabecalho{
+    color:#FFFFFF;
+    text-align: center;
+}
+
+#elementos{
+    background-color:#FFFFFF;
+    border-radius:10px;
+    padding:15px;
+    width:500px;
+    margin:auto;
+    box-shadow: 5px 5px 10px #00000086;
+    margin-top:10px;
+    margin-bottom:20px;
+}
+
+#genero{
+    border-radius:10px;
+    padding-left:10px;
+    height:25px;
+    background-color:#71bfc5;
+    color:white;
+    margin-bottom:5px;
+}
+
+#anoNasc{
+    border-radius:10px;
+    padding-left:10px;
+    height:25px;
+    background-color:#71bfc5;
+    color:white;
+}
+
+#resultado{
+    text-align:center;
+
+}
+
+#botao{
+    margin-left:40%;
+    background-color:#71bfc5;
+    width:100px;
+    height:30px;
+    border-radius:10px;
+    transition:0.5s;
+    color:white;
+    cursor:pointer;
+}
+
+#botao:hover{
+    background-color:#497c81;
+    width:110px;
+    height:35px;
+}
+
+#imagem{
+    text-align: center;
+}
+
+#rodape{
+    color:#FFFFFF;
+    text-align:center;
+    font-style: italic;
+}

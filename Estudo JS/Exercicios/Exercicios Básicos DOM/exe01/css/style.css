@@ -1,0 +1,13 @@
+body{
+    font:12pt Arial;
+}
+
+h1{
+    font-weight:bold;
+}
+
+.click{
+    font:13pt Arial;
+    width:150px;
+    height:80px;
+}
